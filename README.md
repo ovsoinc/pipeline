@@ -18,6 +18,8 @@ const Greeter = SourceModule.create(async function(name) {
 });
 
 const greeter = new Greeter('Monty');
+
+// Hello, Monty!
 ```
 
 ### [TransformModule](lib/TransformModule.js)
