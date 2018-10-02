@@ -35,7 +35,7 @@ const lessThan = new LessThan(10);
 // 11 => false
 ```
 
-# [Pipeline](lib/Pipeline.js)
+## [Pipeline](lib/Pipeline.js)
 
 ``` javascript
 const Generator = SourceModule.create(async function(max) {
